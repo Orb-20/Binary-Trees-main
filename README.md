@@ -8,7 +8,7 @@
 ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
 
 
-An interactive **Binary Trees Visualizer** built with React + Vite.  
+An interactive **Binary Trees Visualizer** built with React  Vite.  
 This project helps learners explore **Binary Search Trees, AVL Trees, Red-Black Trees, Tries, Heaps** and more — with animations, quizzes, and interactive demos.
 
 ---
@@ -48,6 +48,15 @@ Whether it’s fixing a bug, improving docs, or adding new tree algorithms, your
 * 🎥 Smooth animations powered by Lottie & 3D Particle Trees.
 * 🧩 Built-in quizzes for self-testing.
 * 🎨 Clean UI with mascot animations.
+
+---
+## 📸 Screenshots
+
+Here are a few snapshots of the visualizer in action:
+
+| Interactive Visualization | Story Mode |
+| :-----------------------: | :----------: |
+| ![Interactive Visualization](./public/screenshots/visualization.png) | ![Story Mode](./public/screenshots/storymode.png) |
 
 ---
 

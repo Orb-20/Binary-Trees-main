@@ -2,6 +2,11 @@
 
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)
+![MIT License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
+![Pull Requests](https://img.shields.io/github/issues-pr/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
+
 
 An interactive **Binary Trees Visualizer** built with React + Vite.  
 This project helps learners explore **Binary Search Trees, AVL Trees, Red-Black Trees, Tries, Heaps** and more — with animations, quizzes, and interactive demos.

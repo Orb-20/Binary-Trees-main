@@ -112,9 +112,9 @@ Thank you for considering contributing! 🚀
 4. Run tests and `npm run dev` to ensure everything works.
 5. Commit with a clear message:
 
-   ```
+   ````
    git commit -m "feat: added AVL tree insertion visualization"
-   ```
+   ````
 6. Push your branch and open a Pull Request.
 
 ## Contribution Types

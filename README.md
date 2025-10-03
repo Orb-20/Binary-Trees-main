@@ -120,5 +120,4 @@ Thank you for considering contributing! 🚀
 * 🧪 Tests
 * 💡 Ideas / discussions
 
-Check issues labeled **good first issue** for beginner-friendly tasks.
 

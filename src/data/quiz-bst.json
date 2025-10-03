@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "difficulty": "super-easy",
+    "question": "In a BST, the left child of a node always has a value:",
+    "options": ["Greater than the node", "Smaller than the node", "Equal to the node", "Random"],
+    "answer": "Smaller than the node"
+  },
+  {
+    "id": 2,
+    "difficulty": "super-easy",
+    "question": "In a BST, the right child of a node always has a value:",
+    "options": ["Smaller than the node", "Greater than the node", "Equal to the node", "Random"],
+    "answer": "Greater than the node"
+  },
+  {
+    "id": 3,
+    "difficulty": "super-easy",
+    "question": "In a BST, searching for an element is faster than in a normal Binary Tree because:",
+    "options": ["It is sorted", "It has more nodes", "It has no leaves", "It has extra pointers"],
+    "answer": "It is sorted"
+  },
+  {
+    "id": 4,
+    "difficulty": "super-easy",
+    "question": "Which traversal of a BST gives values in sorted order?",
+    "options": ["Preorder", "Inorder", "Postorder", "Level-order"],
+    "answer": "Inorder"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "If we insert elements {10, 20, 5, 7} into an empty BST, what will be the root?",
+    "options": ["5", "7", "10", "20"],
+    "answer": "10"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "If you want to find the minimum value in a BST, you keep moving:",
+    "options": ["Left", "Right", "Up", "Randomly"],
+    "answer": "Left"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Inserting an already existing element into a BST will usually:",
+    "options": ["Add a duplicate node", "Do nothing (ignored)", "Replace the node", "Crash the tree"],
+    "answer": "Do nothing (ignored)"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "In the best case, searching in a BST takes:",
+    "options": ["O(n)", "O(log n)", "O(n²)", "O(1)"],
+    "answer": "O(log n)"
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "question": "The maximum number of nodes in a BST of height h is:",
+    "options": ["h²", "2^h - 1", "2^(h+1) - 1", "h+1"],
+    "answer": "2^(h+1) - 1"
+  },
+  {
+    "id": 10,
+    "difficulty": "medium",
+    "question": "Deleting a node with two children in a BST requires replacing it with:",
+    "options": ["Its sibling", "Its parent", "Its inorder predecessor or successor", "Root node"],
+    "answer": "Its inorder predecessor or successor"
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "question": "A BST becomes unbalanced (like a skewed tree) if elements are inserted in:",
+    "options": ["Random order", "Sorted order", "Reverse order", "Both b and c"],
+    "answer": "Both b and c"
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "question": "Which operation is NOT directly supported in a BST?",
+    "options": ["Insertion", "Searching", "Sorting", "Deletion"],
+    "answer": "Sorting"
+  },
+  {
+    "id": 13,
+    "difficulty": "hard",
+    "question": "The time complexity of searching in an unbalanced BST (worst case) is:",
+    "options": ["O(log n)", "O(n)", "O(n²)", "O(1)"],
+    "answer": "O(n)"
+  },
+  {
+    "id": 14,
+    "difficulty": "hard",
+    "question": "Which tree type is used to fix unbalanced BSTs?",
+    "options": ["Heap", "AVL Tree", "Trie", "Graph"],
+    "answer": "AVL Tree"
+  },
+  {
+    "id": 15,
+    "difficulty": "hard",
+    "question": "If you insert n sorted numbers into a BST, its height will be:",
+    "options": ["O(log n)", "O(n)", "O(√n)", "O(1)"],
+    "answer": "O(n)"
+  }
+]

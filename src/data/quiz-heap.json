@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "difficulty": "super-easy",
+    "question": "A Heap is a type of:",
+    "options": ["Graph", "Binary Tree", "Linked List", "Stack"],
+    "answer": "Binary Tree"
+  },
+  {
+    "id": 2,
+    "difficulty": "super-easy",
+    "question": "In a Max-Heap, the root always contains:",
+    "options": ["Minimum element", "Maximum element", "Random element", "Null"],
+    "answer": "Maximum element"
+  },
+  {
+    "id": 3,
+    "difficulty": "super-easy",
+    "question": "In a Min-Heap, the parent is always:",
+    "options": ["Smaller than its children", "Greater than its children", "Equal to its children", "Random compared to children"],
+    "answer": "Smaller than its children"
+  },
+  {
+    "id": 4,
+    "difficulty": "super-easy",
+    "question": "Which Heap operation lets us find the root element quickly?",
+    "options": ["Insert", "Delete", "Peek", "Traverse"],
+    "answer": "Peek"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "The shape property of a Binary Heap ensures it is always:",
+    "options": ["Full Binary Tree", "Complete Binary Tree", "Balanced Binary Tree", "Skewed Binary Tree"],
+    "answer": "Complete Binary Tree"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "The time complexity to insert into a Heap is:",
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+    "answer": "O(log n)"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "The process of fixing a Heap after insertion or deletion is called:",
+    "options": ["Re-heapify", "Sortify", "Balancing", "Heapify"],
+    "answer": "Heapify"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which of the following applications uses Heaps?",
+    "options": ["Sorting", "Priority Queues", "Graph algorithms", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "question": "The time complexity of building a Heap from n elements is:",
+    "options": ["O(n log n)", "O(log n)", "O(n)", "O(n²)"],
+    "answer": "O(n)"
+  },
+  {
+    "id": 10,
+    "difficulty": "medium",
+    "question": "In a Max-Heap, the second largest element is always located:",
+    "options": ["Left child of root", "Right child of root", "Either left or right child of root", "At the last level"],
+    "answer": "Either left or right child of root"
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "question": "If a Heap has height h, the maximum number of nodes it can have is:",
+    "options": ["h²", "2^h - 1", "2^(h+1) - 1", "h+1"],
+    "answer": "2^(h+1) - 1"
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "question": "Which traversal gives the sorted order of elements when using Heap Sort?",
+    "options": ["Preorder", "Inorder", "Level-order with repeated deletions", "Postorder"],
+    "answer": "Level-order with repeated deletions"
+  },
+  {
+    "id": 13,
+    "difficulty": "hard",
+    "question": "A d-ary Heap is a generalization of a Binary Heap where:",
+    "options": ["Each node has d children", "Each node has at most 2 children", "Each node has d parents", "Each node has unlimited children"],
+    "answer": "Each node has d children"
+  },
+  {
+    "id": 14,
+    "difficulty": "hard",
+    "question": "The time complexity to delete the root from a Heap is:",
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n²)"],
+    "answer": "O(log n)"
+  },
+  {
+    "id": 15,
+    "difficulty": "hard",
+    "question": "If we implement a Heap using an array, the left child of index i is at:",
+    "options": ["2i", "2i + 1", "2*i - 1", "i+1"],
+    "answer": "2i + 1"
+  }
+]

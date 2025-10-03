@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "difficulty": "super-easy",
+    "question": "A Trie is mainly used to store:",
+    "options": ["Numbers", "Strings/Words", "Images", "Graphs"],
+    "answer": "Strings/Words"
+  },
+  {
+    "id": 2,
+    "difficulty": "super-easy",
+    "question": "In a Trie, each edge usually represents:",
+    "options": ["A word", "A letter/character", "A number", "A parent node"],
+    "answer": "A letter/character"
+  },
+  {
+    "id": 3,
+    "difficulty": "super-easy",
+    "question": "Which of the following is a common application of Tries?",
+    "options": ["Auto-complete", "Spell-check", "IP routing", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": 4,
+    "difficulty": "super-easy",
+    "question": "The root of a Trie usually represents:",
+    "options": ["First letter of a word", "Last letter of a word", "Empty string", "A leaf node"],
+    "answer": "Empty string"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Inserting a word of length m into a Trie takes:",
+    "options": ["O(1)", "O(m)", "O(n)", "O(m log n)"],
+    "answer": "O(m)"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Searching for a word in a Trie of n words and length m takes:",
+    "options": ["O(m)", "O(n)", "O(n log m)", "O(log n)"],
+    "answer": "O(m)"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "In a Trie storing {\"car\", \"cat\", \"can\"}, how many nodes are shared for the prefix “ca”?",
+    "options": ["1", "2", "3", "None"],
+    "answer": "2"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which of the following is NOT true about Tries?",
+    "options": ["They store words character by character", "They can use more memory compared to BSTs", "They are used in IP routing", "They cannot handle prefix-based searching"],
+    "answer": "They cannot handle prefix-based searching"
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "question": "The time complexity to delete a word of length m from a Trie is:",
+    "options": ["O(1)", "O(m)", "O(n)", "O(m log n)"],
+    "answer": "O(m)"
+  },
+  {
+    "id": 10,
+    "difficulty": "medium",
+    "question": "In a Trie, if no word ends at a node, we usually mark it as:",
+    "options": ["Null", "Leaf", "Non-terminal node", "Deleted"],
+    "answer": "Non-terminal node"
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "question": "Which type of search is more efficient for prefix matching?",
+    "options": ["Hashing", "Binary Search Tree", "Trie", "Linked List"],
+    "answer": "Trie"
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "question": "Which of these is a compressed version of a Trie that reduces memory usage?",
+    "options": ["AVL Tree", "Radix Tree (Patricia Trie)", "Heap", "Segment Tree"],
+    "answer": "Radix Tree (Patricia Trie)"
+  },
+  {
+    "id": 13,
+    "difficulty": "hard",
+    "question": "If we store n words each of maximum length m in a Trie, the worst-case space complexity is:",
+    "options": ["O(n)", "O(mn)", "O(log n)", "O(n²)"],
+    "answer": "O(mn)"
+  },
+  {
+    "id": 14,
+    "difficulty": "hard",
+    "question": "A Trie is most efficient when:",
+    "options": ["Words share long common prefixes", "Words have no common prefixes", "Words are sorted", "Words are stored in arrays"],
+    "answer": "Words share long common prefixes"
+  },
+  {
+    "id": 15,
+    "difficulty": "hard",
+    "question": "In a Trie for English lowercase letters (26 letters), each node can have at most:",
+    "options": ["2 children", "10 children", "26 children", "Unlimited children"],
+    "answer": "26 children"
+  }
+]

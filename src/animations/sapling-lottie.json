@@ -1,0 +1,20 @@
+{
+  "v": "5.9.6",
+  "fr": 60,
+  "ip": 0,
+  "op": 233,
+  "w": 200,
+  "h": 200,
+  "nm": "Sapling Mascot",
+  "ddd": 0,
+  "assets": [],
+  "layers": [],
+  "markers": [
+    {"tm": 0, "cm": "idle_start", "dr": 90},
+    {"tm": 90, "cm": "idle_end", "dr": 0},
+    {"tm": 91, "cm": "correct_start", "dr": 70},
+    {"tm": 161, "cm": "correct_end", "dr": 0},
+    {"tm": 162, "cm": "wrong_start", "dr": 70},
+    {"tm": 232, "cm": "wrong_end", "dr": 0}
+  ]
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "difficulty": "super-easy",
+    "question": "In a Tree, the topmost node is called:",
+    "options": ["Leaf", "Root", "Parent", "Node"],
+    "answer": "Root"
+  },
+  {
+    "id": 2,
+    "difficulty": "super-easy",
+    "question": "In a Tree, a node with no children is called:",
+    "options": ["Root", "Leaf", "Sibling", "Edge"],
+    "answer": "Leaf"
+  },
+  {
+    "id": 3,
+    "difficulty": "super-easy",
+    "question": "Every node in a Tree has at most:",
+    "options": ["Two parents", "One parent", "Unlimited parents", "No parent"],
+    "answer": "One parent"
+  },
+  {
+    "id": 4,
+    "difficulty": "super-easy",
+    "question": "Which of these is NOT true about a Tree?",
+    "options": ["It has one root", "It has no loops", "Each node has one parent", "A node can be its own parent"],
+    "answer": "A node can be its own parent"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "In a Binary Tree, each node can have at most:",
+    "options": ["1 child", "2 children", "3 children", "Unlimited children"],
+    "answer": "2 children"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "In a Binary Search Tree (BST), the left child has a value:",
+    "options": ["Greater than the root", "Smaller than the root", "Equal to the root", "Random value"],
+    "answer": "Smaller than the root"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "In a Heap, the parent’s value is always:",
+    "options": ["Smaller than children in Max-Heap", "Greater than children in Max-Heap", "Equal to children", "Random compared to children"],
+    "answer": "Greater than children in Max-Heap"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which data structure is best for auto-complete in search engines?",
+    "options": ["Stack", "Queue", "Trie", "Heap"],
+    "answer": "Trie"
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "question": "The maximum number of nodes at level 'k' in a Binary Tree is:",
+    "options": ["k", "k²", "2^k", "2^(k-1)"],
+    "answer": "2^k"
+  },
+  {
+    "id": 10,
+    "difficulty": "medium",
+    "question": "If we insert elements 10, 20, 5, 7 into an empty BST, which one will be the root?",
+    "options": ["5", "7", "10", "20"],
+    "answer": "10"
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "question": "In a Min-Heap, the root node contains:",
+    "options": ["Maximum element", "Minimum element", "Random element", "Any element"],
+    "answer": "Minimum element"
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "question": "In a Trie storing {\"cat\", \"car\", \"can\"}, how many nodes are shared for the prefix \"ca\"?",
+    "options": ["1", "2", "3", "None"],
+    "answer": "2"
+  },
+  {
+    "id": 13,
+    "difficulty": "hard",
+    "question": "The height of a Tree with only one node is:",
+    "options": ["-1", "0", "1", "Undefined"],
+    "answer": "0"
+  },
+  {
+    "id": 14,
+    "difficulty": "hard",
+    "question": "What is the time complexity to search in a balanced BST (average case)?",
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n²)"],
+    "answer": "O(log n)"
+  },
+  {
+    "id": 15,
+    "difficulty": "hard",
+    "question": "Which operation can violate the Heap property?",
+    "options": ["Insert", "Delete", "Both Insert and Delete", "Traversal"],
+    "answer": "Both Insert and Delete"
+  }
+]

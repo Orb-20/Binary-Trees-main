@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "difficulty": "super-easy",
+    "question": "In a Binary Tree, the maximum number of children a node can have is:",
+    "options": ["1", "2", "3", "Unlimited"],
+    "answer": "2"
+  },
+  {
+    "id": 2,
+    "difficulty": "super-easy",
+    "question": "The topmost node of a Binary Tree is called:",
+    "options": ["Leaf", "Root", "Parent", "Sibling"],
+    "answer": "Root"
+  },
+  {
+    "id": 3,
+    "difficulty": "super-easy",
+    "question": "A Binary Tree node with no children is called:",
+    "options": ["Root", "Leaf", "Internal node", "Subtree"],
+    "answer": "Leaf"
+  },
+  {
+    "id": 4,
+    "difficulty": "super-easy",
+    "question": "The left and right nodes of the same parent are called:",
+    "options": ["Cousins", "Siblings", "Leaves", "Parents"],
+    "answer": "Siblings"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "The maximum number of nodes at level k of a Binary Tree is:",
+    "options": ["k", "2^k", "k²", "2^(k-1)"],
+    "answer": "2^k"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "A Binary Tree with n nodes has exactly how many edges?",
+    "options": ["n+1", "n-1", "2n", "n"],
+    "answer": "n-1"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "In a Binary Tree, the number of null pointers is always:",
+    "options": ["n+1", "n-1", "n+2", "n+1 (for full tree only)"],
+    "answer": "n+1"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which traversal visits nodes in the order: Left → Root → Right?",
+    "options": ["Preorder", "Postorder", "Inorder", "Level-order"],
+    "answer": "Inorder"
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "question": "The maximum number of nodes in a Binary Tree of height h is:",
+    "options": ["2^h - 1", "2^(h+1) - 1", "h²", "h+1"],
+    "answer": "2^(h+1) - 1"
+  },
+  {
+    "id": 10,
+    "difficulty": "medium",
+    "question": "In a Binary Tree, if every non-leaf node has exactly 2 children, it is called:",
+    "options": ["Full Binary Tree", "Complete Binary Tree", "Perfect Binary Tree", "Skewed Binary Tree"],
+    "answer": "Full Binary Tree"
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "question": "The height of a skewed Binary Tree with n nodes is:",
+    "options": ["log n", "n-1", "n/2", "1"],
+    "answer": "n-1"
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "question": "Which traversal is best suited to get elements in sorted order from a Binary Search Tree?",
+    "options": ["Preorder", "Postorder", "Inorder", "Level-order"],
+    "answer": "Inorder"
+  },
+  {
+    "id": 13,
+    "difficulty": "hard",
+    "question": "The time complexity of searching for an element in a Binary Tree (not BST) is:",
+    "options": ["O(log n)", "O(n)", "O(1)", "O(n log n)"],
+    "answer": "O(n)"
+  },
+  {
+    "id": 14,
+    "difficulty": "hard",
+    "question": "Which Binary Tree type ensures the minimum possible height for n nodes?",
+    "options": ["Skewed Binary Tree", "Complete Binary Tree", "Degenerate Binary Tree", "Full Binary Tree"],
+    "answer": "Complete Binary Tree"
+  },
+  {
+    "id": 15,
+    "difficulty": "hard",
+    "question": "If a Complete Binary Tree has n nodes, its height is approximately:",
+    "options": ["log₂(n+1) - 1", "log₂(n)", "n/2", "√n"],
+    "answer": "log₂(n)"
+  }
+]
